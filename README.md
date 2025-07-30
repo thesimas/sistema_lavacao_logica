@@ -2,7 +2,7 @@
 
 Este projeto é um sistema de console desenvolvido em Java para gerenciar os atendimentos de uma empresa de lavação de carros. O programa gerencia o fluxo de dados desde a entrada de informações de cada cliente até a geração de um relatório estatístico completo ao final dos atendimentos.
 
-Este trabalho foi desenvolvido como parte da avaliação da disciplina de [Nome da Disciplina] no curso de [Nome do Curso].
+Este trabalho foi desenvolvido como parte da avaliação da disciplina de Lógica de Programação no curso de Técnico em Desenvolvimento de Sistemas pelo IFSC.
 
 ## 📋 Funcionalidades Principais
 
@@ -24,9 +24,7 @@ O sistema implementa as seguintes funcionalidades, conforme os requisitos do pro
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java:** Linguagem de programação principal utilizada no desenvolvimento.
-* **java.util.Scanner:** Classe utilizada para a captura de entradas do usuário via console.
-
+* **Java Purinho** 
 
 O programa iniciará no console, solicitando as informações necessárias para o processamento.
 
